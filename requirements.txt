@@ -1,0 +1,11 @@
+#core libraries
+langchain
+llama-index
+haystack
+#for a backend server
+fastapi
+uvicorn
+
+#Addi5tional tools
+requests
+python-dotenv 
